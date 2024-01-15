@@ -11,14 +11,14 @@ const ExploreNow = () => {
         <div class="justify-center items-center">
           <div className="flex flex-wrap flex-row justify-center items-center">
             <div class="p-6 w-1/2">
-              <h2 class="text-lg text-left ml-2 font-mono text-slate-600">
+              <h2 className="text-lg text-left ml-2 font-mono text-slate-600">
                 Discover the Benefits
               </h2>
-              <p class="text-xl md:text-3xl font-bold mb-4 max-w-lg mt-2">
+              <p className="text-xl md:text-3xl font-bold mb-4 max-w-lg mt-2">
                 Find out what makes us the perfect choice for you.
               </p>
             </div>
-            <div class=" p-6 ml-4 max-w-xl font-sans text-slate-700">
+            <div className=" p-6 ml-4 max-w-xl font-sans text-slate-700">
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Provident, quam voluptatibus esse doloribus blanditiis repellat
